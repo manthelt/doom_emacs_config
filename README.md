@@ -1,1 +1,2 @@
-# doom_emacs_config
+# Private Doom Emacs Configurable
+This is my doom Emacs configuration!
